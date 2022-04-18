@@ -1,0 +1,299 @@
+[
+    {
+        "id": 1,
+        "img":"https://ih1.redbubble.net/image.570339437.4255/papergc,300x,w,f8f8f8-pad,600x600,f8f8f8.u1.jpg",
+        "title":"Thank you for helping me grow! Greeting Card",
+        "designer":"Milkyprint",
+        "price":"160",
+        "rating":"4",
+        "categoryName":"GreetingCard"
+      },
+      {
+        "id": 2,
+        "img":"https://ih1.redbubble.net/image.1070370213.4988/papergc,300x,w,f8f8f8-pad,600x600,f8f8f8.jpg",
+        "title":"Cute Bee Birthday Greeting Card",
+        "designer":" sugarhai",
+        "price":"180",
+        "rating":"5",
+        "categoryName":"GreetingCard"
+      },
+      {
+        "id": 3,
+        "img":"https://ih1.redbubble.net/image.80985415.7669/papergc,300x,w,f8f8f8-pad,600x600,f8f8f8.jpg",
+        "title":"Happy Birthday Hedgehog Greeting Card",
+        "designer":"zoel",
+        "price":"147",
+        "rating":"3",
+        "categoryName":"GreetingCard"
+      },
+      {
+        "id": 4,
+        "img":"https://ih1.redbubble.net/image.501098387.2622/papergc,300x,w,f8f8f8-pad,600x600,f8f8f8.u9.jpg",
+        "title":"Go Shawty, It's Sherbert Day",
+        "designer":"redwoodandvine",
+        "price":"190",
+        "rating":"4",
+        "categoryName":"GreetingCard"
+      },
+      {
+        "id": 5,
+        "img":"https://ih1.redbubble.net/image.429991296.4654/papergc,300x,w,f8f8f8-pad,600x600,f8f8f8.jpg",
+        "title":"I love mummy!",
+        "designer":"Laura-Lise Wong",
+        "price":"160",
+        "rating":"4",
+        "categoryName":"GreetingCard"
+      },
+      {
+        "id": 6,
+        "img":"https://ih1.redbubble.net/image.363608787.6082/papergc,300x,w,f8f8f8-pad,600x600,f8f8f8.u1.jpg",
+        "title":"I love you family!",
+        "designer":"redwoodandvine",
+        "price":"320",
+        "rating":"3",
+        "categoryName":"GreetingCard"
+      },
+      {
+        "id": 7,
+        "img":"https://ih1.redbubble.net/image.1654473355.5665/sn,x600-pad,600x600,f8f8f8.u2.jpg",
+        "title":"Hang on. Let me overthink this.",
+        "designer":"chestify",
+        "price":"430",
+        "rating":"4",
+        "categoryName":"SpiralNotebook"
+      },
+      {
+        "id": 8,
+        "img":"https://ih1.redbubble.net/image.994511148.8874/sn,x600-pad,600x600,f8f8f8.u1.jpg",
+        "title":"Space Foxes",
+        "designer":" Maike Vierkant",
+        "price":"330",
+        "rating":"4",
+        "categoryName":"SpiralNotebook"
+      },
+      {
+        "id": 9,
+        "img":"https://ih1.redbubble.net/image.2766067563.8822/sn,x600-pad,600x600,f8f8f8.jpg",
+        "title":"Strawberry Fields",
+        "designer":"katherineblower",
+        "price":"350",
+        "rating":"4",
+        "categoryName":"SpiralNotebook"
+      },
+      {
+        "id": 10,
+        "img":"https://ih1.redbubble.net/image.725037430.9076/sn,x600-pad,600x600,f8f8f8.u5.jpg",
+        "title":"Let's Run Away",
+        "designer":"Steven Rhodes",
+        "price":"410",
+        "rating":"3",
+        "categoryName":"SpiralNotebook"
+      },
+      {
+        "id": 11,
+        "img":"https://ih1.redbubble.net/image.994491721.9033/sn,x600-pad,600x600,f8f8f8.u1.jpg",
+        "title":"Space Turtles",
+        "designer":"Maike Vierkant",
+        "price":"380",
+        "rating":"4",
+        "categoryName":"SpiralNotebook"
+      },
+      {
+        "id": 12,
+        "img":"https://ih1.redbubble.net/image.1541732139.3218/sn,x600-pad,600x600,f8f8f8.u8.jpg",
+        "title":"Early Morning",
+        "designer":"Kelsey Smith",
+        "price":"550",
+        "rating":"5",
+        "categoryName":"SpiralNotebook"
+      },
+      {
+        "id": 13,
+        "img":"https://ih1.redbubble.net/image.10838866.2381/fp,504x498,black,offwhite,box20,s,f8f8f8-pad,600x600,f8f8f8.jpg",
+        "title":"Is Your Cat Ready?",
+        "designer":"Erikaflea123",
+        "price":"430",
+        "rating":"3",
+        "categoryName":"FramedArt"
+      },
+      {
+        "id": 14,
+        "img":"https://ih1.redbubble.net/image.2410241578.2076/fp,504x498,black,offwhite,box20,s,f8f8f8-pad,600x600,f8f8f8.u2.jpg",
+        "title":"A Frog and His Son",
+        "designer":"DingHuArt",
+        "price":"580",
+        "rating":"4",
+        "categoryName":"FramedArt"
+      },
+      {
+        "id": 15,
+        "img":"https://ih1.redbubble.net/image.684091067.4543/fp,504x498,black,offwhite,box20,s,f8f8f8-pad,600x600,f8f8f8.u4.jpg",
+        "title":"Escaping into the Void",
+        "designer":" Frank Moth",
+        "price":"440",
+        "rating":"4",
+        "categoryName":"FramedArt"
+      },
+      {
+        "id": 16,
+        "img":"https://ih1.redbubble.net/image.788504009.8316/paperpc,450x,w,f8f8f8-pad,600x600,f8f8f8.u2.jpg",
+        "title":"Blue whale",
+        "designer":"VApinx",
+        "price":"800",
+        "rating":"5",
+        "categoryName":"FramedArt"
+      },
+      {
+        "id": 17,
+        "img":"https://ih1.redbubble.net/image.220319662.8830/paperpc,450x,w,f8f8f8-pad,600x600,f8f8f8.u2.jpg",
+        "title":"Mary Poppins ",
+        "designer":"Jess Purser",
+        "price":"120",
+        "rating":"4",
+        "categoryName":"Postcard"
+      },
+      {
+        "id": 18,
+        "img":"https://ih1.redbubble.net/image.45733132.3951/paperpc,450x,w,f8f8f8-pad,600x600,f8f8f8.jpg",
+        "title":"thinker",
+        "designer":"Loui Jover",
+        "price":"130",
+        "rating":"4",
+        "categoryName":"Postcard"
+      },
+      {
+        "id": 19,
+        "img":"https://ih1.redbubble.net/image.932915050.0564/paperpc,450x,w,f8f8f8-pad,600x600,f8f8f8.jpg",
+        "title":"chill like a cat",
+        "designer":"Loui Jover",
+        "price":"195",
+        "rating":"5",
+        "categoryName":"Postcard"
+      },
+      {
+        "id": 20,
+        "img":"https://ih1.redbubble.net/image.1663158047.5357/hj,496x-pad,600x600,f8f8f8.u1.jpg",
+        "title":"hug me",
+        "designer":"catanacomics",
+        "price":"785",
+        "rating":"4",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 21,
+        "img":"https://ih1.redbubble.net/image.370495235.1075/hj,496x-pad,600x600,f8f8f8.jpg",
+        "title":"Ghost Pirate Ship ",
+        "designer":"Eva Nev",
+        "price":"711",
+        "rating":"3",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 22,
+        "img":"https://ih1.redbubble.net/image.383311628.0772/hj,496x-pad,600x600,f8f8f8.jpg",
+        "title":"be a lover. give love. ",
+        "designer":"jana95s",
+        "price":"658",
+        "rating":"3",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 23,
+        "img":"https://ih1.redbubble.net/image.1946350748.5686/hj,496x-pad,600x600,f8f8f8.jpg",
+        "title":"we'll be a fine line ",
+        "designer":"designsbysoph-",
+        "price":"520",
+        "rating":"4",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 24,
+        "img":"https://ih1.redbubble.net/image.1020429792.8017/hj,496x-pad,600x600,f8f8f8.u1.jpg",
+        "title":"Sunflower",
+        "designer":"laurespn",
+        "price":"550",
+        "rating":"4",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 25,
+        "img":"https://ih1.redbubble.net/image.673941423.7748/hj,496x-pad,600x600,f8f8f8.u2.jpg",
+        "title":"Cabin In The Snow",
+        "designer":"thepapercrane",
+        "price":"490",
+        "rating":"4",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 26,
+        "img":"https://ih1.redbubble.net/image.217514957.1072/hj,496x-pad,600x600,f8f8f8.u2.jpg",
+        "title":"she is the poetry",
+        "designer":"thecrazyones",
+        "price":"480",
+        "rating":"3",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 27,
+        "img":"https://ih1.redbubble.net/image.1823757942.0032/hj,496x-pad,600x600,f8f8f8.jpg",
+        "title":"Your Silence is Poetry",
+        "designer":"Spicy Chilli",
+        "price":"600",
+        "rating":"4",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 28,
+        "img":"https://ih1.redbubble.net/image.2296093127.8852/hj,496x-pad,600x600,f8f8f8.jpg",
+        "title":"Because this is my first life",
+        "designer":"kdramaddict",
+        "price":"300",
+        "rating":"4",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 29,
+        "img":"https://ih1.redbubble.net/image.787623659.4710/hj,496x-pad,600x600,f8f8f8.u3.jpg",
+        "title":"Retro Rose",
+        "designer":"capsizx",
+        "price":"350",
+        "rating":"5",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 30,
+        "img":"https://ih1.redbubble.net/image.1442755532.9411/hj,496x-pad,600x600,f8f8f8.u3.jpg",
+        "title":"Portrait Of A Woman",
+        "designer":"artcenter",
+        "price":"800",
+        "rating":"4",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 31,
+        "img":"https://ih1.redbubble.net/image.876402828.9436/hj,496x-pad,600x600,f8f8f8.jpg",
+        "title":"Feather",
+        "designer":"freeminds",
+        "price":"490",
+        "rating":"5",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 32,
+        "img":"https://ih1.redbubble.net/image.266661004.7993/hj,496x-pad,600x600,f8f8f8.u2.jpg",
+        "title":"I Know You Are But What Am I?",
+        "designer":"kjanedesigns",
+        "price":"800",
+        "rating":"5",
+        "categoryName":"Journal"
+      },
+      {
+        "id": 33,
+        "img":"https://ih1.redbubble.net/image.1401233461.1304/hj,496x-pad,600x600,f8f8f8.jpg",
+        "title":"Colorful Feather",
+        "designer":"Sharon Cummings",
+        "price":"920",
+        "rating":"5",
+        "categoryName":"Journal"
+      }
+    ]
